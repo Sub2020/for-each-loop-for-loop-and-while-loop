@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e451db29-2a49-4c15-88c9-f3ccbbf8cd38" name="Changes" comment="for each loop, for loop and while loop">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/collections/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/collections/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/collections/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/collections/ForLoop.java" afterDir="false" />
-    </list>
+    <list default="true" id="e451db29-2a49-4c15-88c9-f3ccbbf8cd38" name="Changes" comment="for each loop, for loop and while loop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +20,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2AOp2a5V8R6T4BFVicXom0tJBPC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UseCollections">
+  <component name="RunManager" selected="Application.UseHashSet">
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.collections.ForLoop" />
       <module name="ArrayList" />
@@ -63,6 +62,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.collections.UseHashSet" />
+      <module name="ArrayList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="datastructure.collections.ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.collections.ArrayList" />
       <module name="ArrayList" />
@@ -78,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseHashSet" />
         <item itemvalue="Application.UseCollections" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.datastructure.collections.ArrayList" />
@@ -107,7 +120,63 @@
       <option name="project" value="LOCAL" />
       <updated>1654896834079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="for each loop, for loop and while loop">
+      <created>1654899880500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654899880500</updated>
+    </task>
+    <task id="LOCAL-00004" summary="for each loop, for loop and while loop">
+      <created>1654899957812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654899957812</updated>
+    </task>
+    <task id="LOCAL-00005" summary="for each loop, for loop and while loop">
+      <created>1654902895866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654902895866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="for each loop, for loop and while loop">
+      <created>1654903080702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654903080702</updated>
+    </task>
+    <task id="LOCAL-00007" summary="for each loop, for loop and while loop">
+      <created>1654903105152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654903105152</updated>
+    </task>
+    <task id="LOCAL-00008" summary="for each loop, for loop and while loop">
+      <created>1654903139390</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654903139390</updated>
+    </task>
+    <task id="LOCAL-00009" summary="for each loop, for loop and while loop">
+      <created>1654903177816</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654903177816</updated>
+    </task>
+    <task id="LOCAL-00010" summary="for each loop, for loop and while loop">
+      <created>1654903264836</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654903264836</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

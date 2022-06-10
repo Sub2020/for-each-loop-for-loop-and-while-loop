@@ -36,7 +36,7 @@ public class UseCollections {
         Integer[] union = {};
         union = set.toArray(union);
 
-        System.out.println(Arrays.toString(union));
+        //System.out.println(Arrays.toString(union));
 
         System.out.println("Intersection of the two arrays ::");
 
