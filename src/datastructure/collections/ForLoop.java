@@ -21,6 +21,8 @@ public class ForLoop {
             System.out.print(it.next() + " ");
         {
 
+            
+
         }
     }
 }
