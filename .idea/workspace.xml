@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e451db29-2a49-4c15-88c9-f3ccbbf8cd38" name="Changes" comment="for each loop, for loop and while loop" />
+    <list default="true" id="e451db29-2a49-4c15-88c9-f3ccbbf8cd38" name="Changes" comment="Merge remote-tracking branch 'loop/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/collections/UseHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/collections/UseHashSet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +23,18 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectId" id="2AOp2a5V8R6T4BFVicXom0tJBPC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.UseHashSet">
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.collections.ForLoop" />
@@ -134,98 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654899957812</updated>
     </task>
-    <task id="LOCAL-00005" summary="for each loop, for loop and while loop">
-      <created>1654902895866</created>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'loop/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1654903779801</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1654902895866</updated>
+      <updated>1654903779801</updated>
     </task>
-    <task id="LOCAL-00006" summary="for each loop, for loop and while loop">
-      <created>1654903080702</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903080702</updated>
-    </task>
-    <task id="LOCAL-00007" summary="for each loop, for loop and while loop">
-      <created>1654903105152</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903105152</updated>
-    </task>
-    <task id="LOCAL-00008" summary="for each loop, for loop and while loop">
-      <created>1654903139390</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903139390</updated>
-    </task>
-    <task id="LOCAL-00009" summary="for each loop, for loop and while loop">
-      <created>1654903177816</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903177816</updated>
-    </task>
-    <task id="LOCAL-00010" summary="for each loop, for loop and while loop">
-      <created>1654903264836</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903264836</updated>
-    </task>
-    <task id="LOCAL-00011" summary="for each loop, for loop and while loop">
-      <created>1654903282589</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903282589</updated>
-    </task>
-    <task id="LOCAL-00012" summary="for each loop, for loop and while loop">
-      <created>1654903333033</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903333033</updated>
-    </task>
-    <task id="LOCAL-00013" summary="for each loop, for loop and while loop">
-      <created>1654903346510</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903346510</updated>
-    </task>
-    <task id="LOCAL-00014" summary="for each loop, for loop and while loop">
-      <created>1654903362402</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903362402</updated>
-    </task>
-    <task id="LOCAL-00015" summary="for each loop, for loop and while loop">
-      <created>1654903418651</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903418651</updated>
-    </task>
-    <task id="LOCAL-00016" summary="for each loop, for loop and while loop">
-      <created>1654903428863</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903428863</updated>
-    </task>
-    <task id="LOCAL-00017" summary="for each loop, for loop and while loop">
-      <created>1654903466574</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1654903466574</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="for each loop, for loop and while loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for each loop, for loop and while loop" />
+    <MESSAGE value="Merge remote-tracking branch 'loop/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'loop/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>

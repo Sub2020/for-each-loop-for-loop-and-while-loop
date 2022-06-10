@@ -33,8 +33,16 @@ public class UseHashSet {
         set.remove("0");
 
         System.out.println("HashSet after removing elements: " + set);
+
+        //each loop
+        int [] HashSet = {3,3,4,1,7,1,0,7,4,5,0,9,8};
+        for (int numbers: HashSet) {
+            System.out.println(numbers);
+
+        }
     }
 }
+
 
 
 
